@@ -1,0 +1,14 @@
+{
+	"client": "dist/",
+	"svr": "server/",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"appid": "wxb8067b2ace55dd2d",
+	"projectname": "chichu",
+	"condition": {}
+}

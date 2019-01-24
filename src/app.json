@@ -1,0 +1,13 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/more/more"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#35bdef",
+        "navigationBarTitleText": "小丑拆字",
+        "navigationBarTextStyle": "white"
+    }
+
+}
