@@ -5,7 +5,7 @@
     ],
     "window": {
         "backgroundTextStyle": "light",
-        "navigationBarBackgroundColor": "#35bdef",
+        "navigationBarBackgroundColor": "#000",
         "navigationBarTitleText": "小丑拆字",
         "navigationBarTextStyle": "white"
     }
