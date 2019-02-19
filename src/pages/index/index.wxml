@@ -8,7 +8,7 @@
 	</view>
 
 	<view class="hint">
-  		<text>输入完成之后点击蓝色框进行复制</text>
+  		<text>输入完成之后点击黑色框进行复制</text>
 	</view>
 
 </view>
