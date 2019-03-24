@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="app index">
+	<view class="header" bindtap="copyText">
+		{{inputValue}}
+	</view>
+	<view class="section">
+  		<input class='input_value' placeholder="请在此输入" bindinput="bindKeyInput"  />
+	</view>
+
+	<view class="hint">
+  		<text>输入完成之后点击黑色框进行复制</text>
+	</view>
+
+</view>
